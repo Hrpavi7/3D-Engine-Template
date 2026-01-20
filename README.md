@@ -1,6 +1,6 @@
-# Minecraft C (Voxel)
+# 3D Engine Template
 
-A lightweight voxel game built in C using OpenGL 3.3 and MinGW-w64. This project demonstrates basic 3D rendering, first-person camera controls, and procedural world generation in a Minecraft-style block world.
+This is a 3D Engine Template that you can use.
 
 ## Table of Contents
 
@@ -191,4 +191,5 @@ This project is open source and available under the MIT License. Feel free to us
 ---
 
 *Last updated: January 2026*
+
 *Version: 1.0*
